@@ -29,20 +29,25 @@ Description:
 Developed a comprehensive Power BI dashboard to provide key business insights for a retail dataset, supporting strategic decision-making and performance optimization.
 
 Top Categories by Total Sales: Visualized the top 10 product categories by total sales, highlighting the highest-performing categories and identifying profitable product lines.
+
 ![image](https://github.com/user-attachments/assets/929b92d4-a570-4764-84e8-424e664210e7)
 
 Delayed Orders Analysis: Analyzed the number of delayed orders in each category, identifying logistical challenges by comparing actual delivery dates with estimated delivery dates.
 Monthly Delayed vs. On-Time Orders: Created a dynamic visual comparing delayed and on-time orders monthly. Implemented drillthrough features for detailed analysis, aiding in performance monitoring over time.
+
 ![image](https://github.com/user-attachments/assets/bfe800e0-9996-4760-945c-c9f3842fade3)
 
 Payment Method Analysis: Analyzed customer payment preferences using visually appealing representations like pie charts, enhancing understanding of customer behaviors.
+
 ![image](https://github.com/user-attachments/assets/f4d4960a-5a48-4eba-8fdc-815852eeb9b4)
 
 Product Rating Analysis: Identified the top 10 highest-rated and bottom 10 lowest-rated products using bar charts, assisting in product quality assessment and improvement strategies.
 State-wise Sales Analysis: Visualized sales performance across different states, identifying regions with high and low sales to understand regional performance and potential market expansion opportunities.
 Seasonal Sales Patterns: Investigated and visualized seasonal sales patterns on a quarterly basis, revealing trends to inform seasonal marketing and inventory strategies.
 Revenue Analysis: Analyzed total revenue over time, with a focus on yearly trends, using line charts and other visuals to highlight revenue patterns and support strategic financial planning and generated a detailed report explaining the dashboard.
+
 ![image](https://github.com/user-attachments/assets/36576193-737c-40c2-a01d-8f3583e5b4a1)
+
 Skills:
 Data Analysis, Data Manipulation, Data Processing, Word Document, Report Generation
 
@@ -54,24 +59,47 @@ Key Tasks and Insights:
 Order Trends Analysis:
 Identified increase or decrease in the number of orders using the Session Details sheet.
 Recognized dates with significant order hikes or drops compared to the same day the previous week.
+
 Traffic Analysis:
 Analyzed changes in traffic (listing sessions) compared to the same day the previous week using the Channel-wise Traffic sheet.
 Determined sources of traffic fluctuations.
+
 Conversion Rate Analysis:
 Evaluated overall conversion rates and identified fluctuations.
 Broke down the conversion process into smaller metrics: Listing to Menu (L2M), Menu to Cart (M2C), Cart to Payment (C2P), and Payment to Order (P2O).
 Pinpointed specific stages in the conversion funnel that were fluctuating.
+
 Hypothesis and Validation:
 Developed hypotheses for observed fluctuations in conversions.
 Validated hypotheses using supporting data, including average discounts, packaging charges, delivery charges, and more.
+
 Report and Documentation:
 Compiled a detailed report summarizing all insights and identifying dates with significant order changes.
 Explained reasons for order fluctuations based on traffic and conversion analysis.
 Provided structured and formatted documentation with charts, tables, and conditional formatting to support findings.
+
 Tools and Techniques:
 Data Analysis and Visualization (Excel)
 Funnel Conversion Metrics
 Comparative Analysis (Week-over-Week)
 Hypothesis Testing and Validation
+
 Results and Impact:
 The project provided actionable insights into order trends, traffic sources, and conversion rates. It helped identify key areas for strategic improvement and informed data-driven decision-making to enhance platform performance.
+
+
+# SQL
+
+Description:
+worked on a comprehensive data analysis project using SQL to explore and analyze the AirlineDB, a database containing flight-related data including transactions, tickets, flight schedules, airports, and aircraft information. The project involved extracting actionable insights and solving real-world business problems for an airline. Key analyses included:
+
+Seat Allocation: Identified the least allocated seat number across all flights.
+Passenger Revenue: Analyzed month-wise highest and lowest paying passengers, including passenger names and IDs.
+Journey Analysis: Discovered travel details for non-stop and return journeys.
+Boarding Pass Issues: Flagged tickets without boarding passes for further investigation.
+Flight Analysis: Found the longest flight and explored its details.
+Geographic Insights: Listed airports based on specific time zones and identified airports with the maximum number of departures.
+Flight Performance: Analyzed specific brands of flights that experienced cancellations or delays.
+Cancellation Insights: Identified the airport with the highest number of canceled flights and passengers who received refunds due to cancellations.
+Aircraft Range: Investigated the details of the flight with the highest range.
+This project showcased my ability to work with complex relational databases, design and optimize queries, and deliver data-driven insights for operational improvements in the airline industry.
