@@ -24,8 +24,7 @@ By automating these tasks, the pipeline significantly reduced manual effort, min
 Skills:
 Python, Data Cleaning, Data Analysis, Data Manipulation, Data Processing, Excel, CSV files.
 
-
-#POWER BI
+# POWER BI
 Description:
 Developed a comprehensive Power BI dashboard to provide key business insights for a retail dataset, supporting strategic decision-making and performance optimization.
 
