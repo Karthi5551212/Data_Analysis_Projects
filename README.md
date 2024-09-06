@@ -45,3 +45,33 @@ Revenue Analysis: Analyzed total revenue over time, with a focus on yearly trend
 ![image](https://github.com/user-attachments/assets/36576193-737c-40c2-a01d-8f3583e5b4a1)
 Skills:
 Data Analysis, Data Manipulation, Data Processing, Word Document, Report Generation
+
+# MS-Excel
+Description:
+As a Growth and Strategy Analyst for an e-commerce company, I conducted a comprehensive funnel analysis to generate performance insights for the year 2019. The analysis was based on the 'Funnel Case Study Data' workbook, which included session details, channel-wise traffic, and supporting data.
+Key Tasks and Insights:
+
+Order Trends Analysis:
+Identified increase or decrease in the number of orders using the Session Details sheet.
+Recognized dates with significant order hikes or drops compared to the same day the previous week.
+Traffic Analysis:
+Analyzed changes in traffic (listing sessions) compared to the same day the previous week using the Channel-wise Traffic sheet.
+Determined sources of traffic fluctuations.
+Conversion Rate Analysis:
+Evaluated overall conversion rates and identified fluctuations.
+Broke down the conversion process into smaller metrics: Listing to Menu (L2M), Menu to Cart (M2C), Cart to Payment (C2P), and Payment to Order (P2O).
+Pinpointed specific stages in the conversion funnel that were fluctuating.
+Hypothesis and Validation:
+Developed hypotheses for observed fluctuations in conversions.
+Validated hypotheses using supporting data, including average discounts, packaging charges, delivery charges, and more.
+Report and Documentation:
+Compiled a detailed report summarizing all insights and identifying dates with significant order changes.
+Explained reasons for order fluctuations based on traffic and conversion analysis.
+Provided structured and formatted documentation with charts, tables, and conditional formatting to support findings.
+Tools and Techniques:
+Data Analysis and Visualization (Excel)
+Funnel Conversion Metrics
+Comparative Analysis (Week-over-Week)
+Hypothesis Testing and Validation
+Results and Impact:
+The project provided actionable insights into order trends, traffic sources, and conversion rates. It helped identify key areas for strategic improvement and informed data-driven decision-making to enhance platform performance.
