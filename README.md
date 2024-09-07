@@ -116,6 +116,9 @@ Cancellation Insights: Identified the airport with the highest number of cancele
 Aircraft Range: Investigated the details of the flight with the highest range.
 This project showcased my ability to work with complex relational databases, design and optimize queries, and deliver data-driven insights for operational improvements in the airline industry.
 
+**Code:**
+[SQL_Codes](https://github.com/Karthi5551212/Data_Analysis_Projects/blob/e77ba6ad2b96c878caa4b04dc3c67bb9f83a930e/SQL%20Capstone%20Project_3.docx)
+
 
 # Certifications
 Completed a certification of Data Analytics and Python from Skillovilla.
