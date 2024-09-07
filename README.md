@@ -22,7 +22,7 @@ Aggregations for Insights: Performed complex data aggregations to derive meaning
 By automating these tasks, the pipeline significantly reduced manual effort, minimized errors, and provided a robust foundation for insightful analysis and data-driven decision making. This project demonstrated my ability to leverage Python for complex data processing tasks, enhancing data quality and enabling more informed business decisions.
 
 **Code:**
-Code: [Data_Fusion_And_Analysis_Pipeline](https://github.com/Karthi5551212/Data_Analysis_Projects/blob/339f91f6da4c6656aa15658b0937b843f8002215/Data_Fusion_and_analysis_pipeline.ipynb)
+[Data_Fusion_And_Analysis_Pipeline](https://github.com/Karthi5551212/Data_Analysis_Projects/blob/339f91f6da4c6656aa15658b0937b843f8002215/Data_Fusion_and_analysis_pipeline.ipynb)
 
 **Skills:**
 Python, Data Cleaning, Data Analysis, Data Manipulation, Data Processing, Excel, CSV files.
