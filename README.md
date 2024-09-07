@@ -124,3 +124,7 @@ This project showcased my ability to work with complex relational databases, des
 Completed a certification of Data Analytics and Python from Skillovilla.
 
 [Data_Analytics_with_Python](https://drive.google.com/file/d/1c1Q6M6PgbF8vSpG6QI8gm4R-HJ3KYLyL/view)
+
+
+**You can take a look at my Linkedin**
+[Karthi_B](linkedin.com/in/karthi-b-837185252)
