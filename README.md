@@ -91,7 +91,7 @@ Comparative Analysis (Week-over-Week)
 Hypothesis Testing and Validation
 
 **Project_File:**
-
+[Project_File](https://github.com/Karthi5551212/Data_Analysis_Projects/blob/239d4aaf6c887a33611717223d27412842ff62e7/Calculations.xlsx)
 
 **Report_Document:**
 [Report_Doc](https://github.com/Karthi5551212/Data_Analysis_Projects/blob/aebd4cb45456e4ab9fc7b78ee3fce8f7ed9eab2b/Capstone_Project_Report.docx)
