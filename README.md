@@ -103,3 +103,9 @@ Flight Performance: Analyzed specific brands of flights that experienced cancell
 Cancellation Insights: Identified the airport with the highest number of canceled flights and passengers who received refunds due to cancellations.
 Aircraft Range: Investigated the details of the flight with the highest range.
 This project showcased my ability to work with complex relational databases, design and optimize queries, and deliver data-driven insights for operational improvements in the airline industry.
+
+
+# Certifications
+Completed a certification of Data Analytics and Python from Skillovilla.
+
+[Data_Analytics_with_Python](https://drive.google.com/file/d/1c1Q6M6PgbF8vSpG6QI8gm4R-HJ3KYLyL/view)
