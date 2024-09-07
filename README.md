@@ -51,6 +51,9 @@ Revenue Analysis: Analyzed total revenue over time, with a focus on yearly trend
 
 ![image](https://github.com/user-attachments/assets/36576193-737c-40c2-a01d-8f3583e5b4a1)
 
+**Report:**
+
+
 **Skills:**
 Data Analysis, Data Manipulation, Data Processing, Word Document, Report Generation
 
