@@ -8,6 +8,8 @@ In this section I will list data analytics projects briefly describing the techn
 Description:
 I Developed and implemented a sophisticated data processing pipeline in Python to automate various data manipulation tasks. This pipeline was designed to handle multiple CSV files, streamlining the data preparation process to ensure data integrity and enhance analytical capabilities. Key aspects of the project include:
 
+Code: [Data_Fusion_And_Analysis_Pipeline](https://github.com/Karthi5551212/Data_Analysis_Projects/blob/339f91f6da4c6656aa15658b0937b843f8002215/Data_Fusion_and_analysis_pipeline.ipynb)
+
 Automated Data Cleaning:
 Missing Value Imputation: Developed algorithms to automatically detect and impute missing values using appropriate statistical methods, ensuring the completeness of the dataset.
 Data Merging: Efficiently combined data from multiple CSV files into a unified dataset, managing different schemas and formats seamlessly.
