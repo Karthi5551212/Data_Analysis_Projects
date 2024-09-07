@@ -52,7 +52,7 @@ Revenue Analysis: Analyzed total revenue over time, with a focus on yearly trend
 ![image](https://github.com/user-attachments/assets/36576193-737c-40c2-a01d-8f3583e5b4a1)
 
 **Report:**
-
+[Power_BI_Report_Word_Doc](https://github.com/Karthi5551212/Data_Analysis_Projects/blob/e7d3af7afaba113651d470a4925ba4c951b2eef8/Capstone_Project.docx)
 
 **Skills:**
 Data Analysis, Data Manipulation, Data Processing, Word Document, Report Generation
