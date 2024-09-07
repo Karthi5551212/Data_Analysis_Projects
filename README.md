@@ -5,10 +5,8 @@ Hi, I am Karthi. I have an Educational Background in Bachelor of Engineering. I 
 # Projects
 In this section I will list data analytics projects briefly describing the technology I used to solve cases.
 # Data Fusion and Analysis Pipeline using Python
-Description:
+**Description:**
 I Developed and implemented a sophisticated data processing pipeline in Python to automate various data manipulation tasks. This pipeline was designed to handle multiple CSV files, streamlining the data preparation process to ensure data integrity and enhance analytical capabilities. Key aspects of the project include:
-
-Code: [Data_Fusion_And_Analysis_Pipeline](https://github.com/Karthi5551212/Data_Analysis_Projects/blob/339f91f6da4c6656aa15658b0937b843f8002215/Data_Fusion_and_analysis_pipeline.ipynb)
 
 Automated Data Cleaning:
 Missing Value Imputation: Developed algorithms to automatically detect and impute missing values using appropriate statistical methods, ensuring the completeness of the dataset.
@@ -23,11 +21,14 @@ Designation Adjustments: Automated the updating of employee designations based o
 Aggregations for Insights: Performed complex data aggregations to derive meaningful insights, supporting decision-making processes with accurate and detailed data analysis.
 By automating these tasks, the pipeline significantly reduced manual effort, minimized errors, and provided a robust foundation for insightful analysis and data-driven decision making. This project demonstrated my ability to leverage Python for complex data processing tasks, enhancing data quality and enabling more informed business decisions.
 
-Skills:
+**Code:**
+Code: [Data_Fusion_And_Analysis_Pipeline](https://github.com/Karthi5551212/Data_Analysis_Projects/blob/339f91f6da4c6656aa15658b0937b843f8002215/Data_Fusion_and_analysis_pipeline.ipynb)
+
+**Skills:**
 Python, Data Cleaning, Data Analysis, Data Manipulation, Data Processing, Excel, CSV files.
 
 # POWER BI
-Description:
+**Description:**
 Developed a comprehensive Power BI dashboard to provide key business insights for a retail dataset, supporting strategic decision-making and performance optimization.
 
 Top Categories by Total Sales: Visualized the top 10 product categories by total sales, highlighting the highest-performing categories and identifying profitable product lines.
@@ -50,13 +51,13 @@ Revenue Analysis: Analyzed total revenue over time, with a focus on yearly trend
 
 ![image](https://github.com/user-attachments/assets/36576193-737c-40c2-a01d-8f3583e5b4a1)
 
-Skills:
+**Skills:**
 Data Analysis, Data Manipulation, Data Processing, Word Document, Report Generation
 
 # MS-Excel
-Description:
+**Description:**
 As a Growth and Strategy Analyst for an e-commerce company, I conducted a comprehensive funnel analysis to generate performance insights for the year 2019. The analysis was based on the 'Funnel Case Study Data' workbook, which included session details, channel-wise traffic, and supporting data.
-Key Tasks and Insights:
+**Key Tasks and Insights:**
 
 Order Trends Analysis:
 Identified increase or decrease in the number of orders using the Session Details sheet.
@@ -86,13 +87,13 @@ Funnel Conversion Metrics
 Comparative Analysis (Week-over-Week)
 Hypothesis Testing and Validation
 
-Results and Impact:
+**Results and Impact:**
 The project provided actionable insights into order trends, traffic sources, and conversion rates. It helped identify key areas for strategic improvement and informed data-driven decision-making to enhance platform performance.
 
 
 # SQL
 
-Description:
+**Description:**
 worked on a comprehensive data analysis project using SQL to explore and analyze the AirlineDB, a database containing flight-related data including transactions, tickets, flight schedules, airports, and aircraft information. The project involved extracting actionable insights and solving real-world business problems for an airline. Key analyses included:
 
 Seat Allocation: Identified the least allocated seat number across all flights.
