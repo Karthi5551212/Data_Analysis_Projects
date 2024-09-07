@@ -128,4 +128,4 @@ Completed a certification of Data Analytics and Python from Skillovilla.
 
 # Linkedin Profile 
 **You can take a look at my Linkedin**
-[Karthi_B](linkedin.com/in/karthi-b-837185252)
+[Karthi_B](https://linkedin.com/in/karthi-b-837185252)
