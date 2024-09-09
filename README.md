@@ -2,9 +2,6 @@
 # About
 Hi, I am Karthi. I have an Educational Background in Bachelor of Engineering. I am on Track to develop my Strong foundation in the data analysis field. Started my career in python developing I transitioned into Data Analysis and been working in this field for past one year. I honed my ability to develop and execute python codes, SQL and work in Excel, Statistics to optimize the operations and generate impactful results.
 
-# Projects
-In this section I will list data analytics projects briefly describing the technology I used to solve cases.
-
 # POWER BI
 **Description:**
 Developed a comprehensive Power BI dashboard to provide key business insights for a retail dataset, supporting strategic decision-making and performance optimization.
